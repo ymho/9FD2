@@ -1,4 +1,4 @@
-/vendor/
+# /vendor/
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -23,4 +23,4 @@ Homestead.json
 .phpunit.result.cache
 
 .DS_Store
-./container/db/data
+container/db/data
